@@ -1,0 +1,15 @@
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\bin\Debug\net6.0\Igra.exe
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\bin\Debug\net6.0\Igra.deps.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\bin\Debug\net6.0\Igra.runtimeconfig.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\bin\Debug\net6.0\Igra.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\bin\Debug\net6.0\Igra.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.AssemblyInfo.cs
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.csproj.CoreCompileInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\refint\Igra.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\Igra.genruntimeconfig.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra\obj\Debug\net6.0\ref\Igra.dll
