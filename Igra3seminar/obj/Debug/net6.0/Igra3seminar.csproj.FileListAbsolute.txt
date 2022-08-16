@@ -1,0 +1,15 @@
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.AssemblyInfo.cs
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.csproj.CoreCompileInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\bin\Debug\net6.0\Igra3seminar.exe
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\bin\Debug\net6.0\Igra3seminar.deps.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\bin\Debug\net6.0\Igra3seminar.runtimeconfig.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\bin\Debug\net6.0\Igra3seminar.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\bin\Debug\net6.0\Igra3seminar.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\refint\Igra3seminar.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\Igra3seminar.genruntimeconfig.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Igra3seminar\obj\Debug\net6.0\ref\Igra3seminar.dll
