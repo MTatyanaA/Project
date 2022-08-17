@@ -1,0 +1,15 @@
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\bin\Debug\net6.0\Formuly.exe
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\bin\Debug\net6.0\Formuly.deps.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\bin\Debug\net6.0\Formuly.runtimeconfig.json
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\bin\Debug\net6.0\Formuly.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\bin\Debug\net6.0\Formuly.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.csproj.AssemblyReference.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.AssemblyInfoInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.AssemblyInfo.cs
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.csproj.CoreCompileInputs.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\refint\Formuly.dll
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.pdb
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\Formuly.genruntimeconfig.cache
+C:\Users\д\Desktop\КУРСЫ ВСЕ\PROJECT2\Formuly\obj\Debug\net6.0\ref\Formuly.dll
